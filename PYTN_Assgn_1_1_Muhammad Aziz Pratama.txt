@@ -1,0 +1,4 @@
+link github :
+https://github.com/azizmap/H8_001/blob/main/Assignment%201/PYTN_Assgn_1_1_Muhammad%20Aziz%20Pratama.ipynb
+
+dataset is too large to  be uploaded to github, please use your own dataset or download it from https://www.kaggle.com/jboysen/london-crime
