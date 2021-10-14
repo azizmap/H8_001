@@ -1,2 +1,2 @@
 link github :
-https://github.com/azizmap/H8_001/blob/main/Assignment%202/PYTN_Assgn_2_1_Muhammad%20Aziz%20Pratama.ipynb
+https://github.com/azizmap/H8_001/blob/main/Assignment%203/PYTN_Assgn_3_1_Muhammad%20Aziz%20Pratama.ipynb
